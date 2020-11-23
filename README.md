@@ -11,3 +11,5 @@ Het programma houdt interessante statistieken bij, de hoogste scores worden bewa
 Andere namen voor dit spel zijn o.a.: 'Oh hell', 'Bollen', 'Bolletje', 'Chinees Poepen', 'Chinees Bridgen' en 'Bergje op, bergje af', 'Plump').
 
 Ontwikkeld in Visual Basic 6.
+
+Het installatiebestand is hier te downloaden: https://sourceforge.net/projects/tienopenneer/files/Installer/
