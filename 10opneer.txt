@@ -1,0 +1,46 @@
+10 op en neer
+Korte handleiding
+Bijgewerkt voor versie 0.85
+
+Doel van het spel
+Je moet zo veel mogelijk punten halen. Bovendien moet je proberen meer punten te halen dan je drie tegenspelers.
+
+Ronden
+Ieder krijgt in de eerste ronde 1 kaart, in de volgende ronde 2, enzovoort tot en met 10 kaarten, daarna weer 9, 8, enzovoorts tot en met 1. Vandaar de naam. In totaal zijn er dus 19 ronden.
+
+Aan het begin van elke ronde moet ieder speler zeggen hoeveel slagen (betekenis volgt) hij denkt te halen. Dit aantal wordt op het scoreblok (rechts in beeld) vermeld.
+
+Kaarten opleggen
+Als iedereen het aantal slagen voorspeld heeft moet de eerste speler uitkomen: deze moet als eerste een kaart opleggen. De naam van de speler die moet uitkomen is geel.
+Dan moet de volgende speler een kaart erbij leggen (met de klok mee). Deze speler moet kleur bekennen: de kaart moet, indien mogelijk, van de zelfde soort (kleur) zijn als die van de kaart die de eerste speler had opgelegd. Dus als de eerste speler een klaverkaart heeft opgelegd, moet de tweede dat ook doen, indien mogelijk.
+Vervolgens moeten de andere twee spelers een kaart bijleggen. Ook zij moeten kleur bekennen.
+De kaarten onder in beeld zijn van jou. Om een kaart op te leggen klik je met de muis op die kaart.
+
+Wat is een slag
+Als allevier de spelers een kaart hebben opgelegd, dan wordt bepaald wie de kaart met de hoogste waarde heeft opgelegd. De volgorde van de kaarten is 2...10, boer, vrouw, heer, aas. De speler die de kaart met de hoogste waarde heeft bijgelegd, krijgt de vier kaarten: een slag. Als een speler geen kleur kon bekennen, is zijn kaart altijd minder waard dan die van de speler die moest uitkomen. Hierop is een uitzondering: kaarten van de troefkleur zijn meer waard dan de andere. De troef wordt aan het begin van elke ronde apartgelegd: deze ligt boven het scoreblok.
+
+Voorbeeld
+Harten is troef,
+Speler 1 komt uit met een klaverheer
+Speler 2 legt een schoppenaas bij (dat mag want hij heeft geen klavers)
+Speler 3 een klavervijf
+Speler 4 een hartentwee (een troef; dat mag want hij heeft geen klavers).
+De slag gaat dan naar speler 4.
+
+Volgende slag
+De speler die de slag in ontvangst heeft genomen, moet dan uitkomen. Vervolgens moeten de andere spelers weer een kaart bijleggen en wordt bepaald naar wie de slag gaat. Dit herhaalt zich totdat de spelers geen kaarten meer in handen hebben. In de eerste ronde is er dus maar één slag te behalen.
+
+Punten
+Zodra de spelers geen kaarten meer hebben en bepaald is naar wie de laatste slag gaat, worden de punten berekend. Spelers die na afloop van een ronden inderdaad precies zo veel slagen hebben gehaald als ze hebben voorspeld, krijgen punten: het aantal behaalde slagen + 10. Spelers die dat niet gelukt is, krijgen geen punten.
+
+Theoretisch kan iedere speler dus 11+12+13+14+15+16+17+18+19+20+19+18+17+16+15+14+13+12+11 = 290 punten halen. Praktisch is een score van 170 zeer goed en boven de 200 bijna niet te halen. 
+
+Tip
+Onderzoek eens wat voor mogelijkheden er achter de menubalk verscholen liggen.
+
+Al doende leert men.
+
+Succes!
+
+Axel Brink, 20 maart 2000.
+axelbrink@hotmail.com

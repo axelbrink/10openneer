@@ -1,0 +1,170 @@
+============================================
+Belangrijkste veranderingen in 10 op en neer
+============================================
+
+0.1 revisie 118
+---------------
+- Opgelost:  een fout
+- Verbeterd: intelligentie van computerspelers (AI)
+- Nieuw:     debuginfo verwijderd
+- Nieuw:     gemiddelde alleen over de laatste 10 spellen
+
+0.8
+---
+- Verbeterd: intelligentie van computerspelers
+- Verbeterd: interne verbeteringen
+- Verbeterd: programma start sneller
+- Verbeterd: achterkanten kiezen
+- Nieuw:     dame rechtsboven (Tineke) geeft commentaar
+- Nieuw:     houdbaarheidsdatum ingevoerd: 30 april 2000
+
+0.81: 25 mei 1999
+-----------------
+- Verbeterd: spelhulp uitgebreid en wordt nu "uitgesproken" door Tineke
+- Verbeterd: minder systeembestanden vereist
+- Verbeterd: scoreblok
+- Verbeterd: interne verbeteringen (efficiënter)
+- Verbeterd: venster van formaat wijzigen gaat soepeler
+- Verbeterd: gemiddelde niet meer over laatste 10 spellen
+             (geeft onlogische resultaten)
+- Verbeterd: programma start sneller
+- Nieuw:     geluidenkiezer
+- Nieuw:     statistiek kan gewist worden
+- Nieuw:     op email- en homepageadres dubbelklikken om te openen
+- Houdbaarheidsdatum: 31 mei 2000
+
+0.82: 15 augustus 1999
+----------------------
+- Verbeterd: Tineke
+- Verbeterd: snelheden kunnen nauwkeuriger ingesteld worden
+- Verbeterd: omgekeerd sorteren wordt meteen na aanklikken uitgevoerd
+- Verbeterd: programma start sneller
+- Verbeterd: interne reorganisatie (minder processorgebruik en ter
+             voorbereiding van netwerkondersteuning)
+- Verbeterd: minder systeembestanden nodig
+- Verbeterd: scoreblok
+- Verbeterd: installatieprocedure grotendeels in het Nederlands
+- Verbeterd: vele details
+- Nieuw:     aantal slagen over in de statusbalk: soms tussen haakjes
+- Nieuw:     geluiden zijn af te spelen vanuit de geluidenkiezer
+- Nieuw:     contextmenu's voor rechtermuisknop
+- Nieuw:     statistiek uitgebreid
+- Nieuw:     kaarten kunnen breed uitgespreid worden (om
+             verkeerd klikken te voorkomen)
+- Nieuw:     kortere spellen mogelijk met maximaal 5 of 7 kaarten
+- Nieuw:     tips aangepast
+- Houdbaarheidsdatum: 30 juni 2000
+
+  Later dezelfde versie verspreid met volledig Nederlandstalige
+  installatieprocedure
+
+0.83: 7 januari 2000
+--------------------
+- Verbeterd: programma neemt minder schijfruimte in (en is iets
+             minder mooi)
+- Verbeterd: fouten bij korte spellen
+- Verbeterd: statistiek; ook uitgebreid
+- Nieuw:     geluidsgebeurtenis toegevoegd
+- Nieuw:     nieuwe geluiden
+- Nieuw:     geluiden kiezen geïntegreerd in Windows
+- Nieuw:     programma verwijderen vanuit het programma zelf
+- Houdbaarheidsdatum: 31 december 2000
+
+0.84: 10 februari 2000
+----------------------
+- Opgelost:  computerspelers bleken in uitzonderlijke
+             gevallen vals te spelen (verzaken).
+- Verbeterd: details en interne verbeteringen
+- Verbeterd: intelligentie van computerspelers
+- Nieuw:     optie om rondmaken niet toe te staan
+- Houdbaarheidsdatum: 31 januari 2001
+
+0.85: 8 april 2000
+------------------
+- Opgelost:  hulp van Tineke verdween soms
+- Opgelost:  instelling voor kaartachterkant werd niet bewaard
+- Opgelost:  naam intypen gaf soms problemen
+- Verbeterd: terminologie: "opkomen" veranderd in "uitkomen"
+- Verbeterd: begeleidende hulp
+- Verbeterd: intelligentie van computerspelers
+- Nieuw:     namen wijzigen duidelijker
+- Nieuw:     statusbalk toont of rondmaken toegestaan is
+- Nieuw:     highscore toont of rondmaken toegestaan was
+- Nieuw:     highscore afdrukken
+- Nieuw:     gebruiker wordt gevraagd naam in te typen bij highscore
+- Houdbaarheidsdatum: 31 maart 2001
+
+  20 april 2000: dezelfde versie verspreid met vernieuwde
+  installatieprocedure
+
+0.86: 15 oktober 2000
+---------------------
+- Opgelost:  spelernaam werd soms niet goed weergegeven
+- Opgelost:  oude rondjes bleven zichtbaar bij nieuw spel
+- Verbeterd: Internetlinks in het venster Info
+- Verbeterd: statistiekvenster kan niet meer geminimaliseerd worden
+- Verbeterd: spelhulp kan niet verdwijnen door erop te klikken
+- Verbeterd: schuifjes in het venster voor snelheid zijn mooier
+- Verbeterd: kaarten van computerspelers niet meer op volgorde
+- Verbeterd: commentaar van Tineke aangepast en praatwolkje mooier
+- Verbeterd: winnaar wordt gemarkeerd
+- Verbeterd: spelregels, tips en 'wat is dit?' in nieuw helpsysteem
+- Verbeterd: onlogisch gedrag van het scoreblok
+- Verbeterd: menu's aangepast
+- Verbeterd: installatieprocedure eenvoudiger
+- Nieuw:     uitleg bij statistiek
+- Nieuw:     optie voor verplicht introeven
+- Nieuw:     meer kaartachterkanten geïntegreerd
+- Nieuw:     knop 'Help' in beeld
+- Nieuw:     gemakkelijk naar de webpagina vanuit het spel
+- Nieuw:     optie voor dubbele kaartgrootte
+- Houdbaarheidsdatum: 31 oktober 2001
+
+0.86 revisie 1: 18 oktober 2000
+-------------------------------
+- Opgelost:  vorige versie toonde iedere keer hoe het spel te starten
+
+0.87: 7 januari 2001
+--------------------
+- Nieuw:     troefkaart en Tineke nu onderin beeld; score bovenin
+- Nieuw:     puntentelling van Boerenbridge als optie;
+             je kunt nu spelen met alle regels van Boerenbridge
+- Nieuw:     highscore kan gewist worden
+- Nieuw:     beste speler wordt tijdens het spel gemarkeerd
+- Nieuw:     nieuwe geluiden
+- Houdbaarheidsdatum: 31 januari 2002
+
+0.90: 23 september 2001
+-----------------------
+- Opgelost:  fouten die optraden na het wissen van de highscore
+- Verbeterd: vele details
+- Verbeterd: highscore toont geen informatie meer over spelregels
+- Nieuw:     spelregels en puntentelling instellen via menu's
+- Nieuw:     "Nieuw spel 10 op en neer/Boerenbridge" vanuit menu
+- Houdbaarheidsdatum: 31 januari 2003
+
+1.0: 20 januari 2002
+--------------------
+- Verbeterd: kiezen van kaartachterkanten van onjuist formaat
+- Verbeterd: menu bij rechtermuisknop op scoreblok/highscore
+- Verbeterd: inschakelen van hulp wijzigt spelsnelheid niet
+- Verbeterd: Help uitgebreid
+- Nieuw:     optie om computerspelers niet in highscore toe te laten
+- Houdbaarheidsdatum: vervalt. Het programma is nu onbeperkt
+             te gebruiken.
+
+1.01: 27 januari 2002
+---------------------
+- Opgelost:  programma liep vast na "Nieuw spel" na installatie
+- Opgelost:  installatieprogramma sloot niet af
+- Verbeterd: gebruiker kan doelmap kiezen tijdens installatie
+
+?
+---------------------
+- Opgelost:  help, geluiden kiezen en verwijderen werkten niet in XP
+- Verbeterd: kaarten worden beter geschud
+- Verbeterd: programma start sneller
+- Verbeterd: intelligentie van computerspelers
+- Nieuw:     extra optie voor puntentelling bij foutieve voorspelling
+- Nieuw:     laatste slag zien
+- Nieuw:     Boerenbridge nu tot en met 13 kaarten in de hand

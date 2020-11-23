@@ -1,0 +1,21 @@
+* In Zweden heet het "Plump"
+* Engels! (belangrijk)
+
+* In highscore met andere regels: "Wissen of negeren/behouden?"
+* Optie "ondertroeven toegestaan" / overtroeven verplicht
+
+* 10 op en neer in Startmenu onder Ontspanning
+
+* Herstelknop (niet meer in highscore) en totale history
+
+* AI: speler troeft onder/gooit hoge kaarten weg: heeft hoge kaarten (iets mee doen?) .. Gooit lage kaarten weg. Schattingsindex van kaarten van anderen?
+* AI: computer troeft over op een na laatste slag, en komt dan niet meer van slag af (beter: niet overtroeven; slag laten lopen; laatste introeven, want hij is de enige die dan nog een slag moet)
+
+* Voorspellingen niet gekend (geheim) (e-mails Paul Bosteels)
+* Conclusies van Tineke uitgebreider
+* Naam (op webpagina: "go-to-the-hell")
+* Spelregels van Boerenbridge in Help
+* Spelregels met alle opties beschrijven
+* Statistiek: Is score afhankelijk van de tijd van de dag?
+* Ini-bestanden op persoonlijk account
+* Uitkomen met kale boer

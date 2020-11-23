@@ -1,0 +1,36 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+LCID=0x413 0x0 0x0 ; Nederlands (standaard)
+REPORT=Yes
+CONTENTS=IDH_Spelen
+TITLE=10 op en neer-help
+CNT=10opneer.cnt
+COPYRIGHT=Axel Brink %date
+HLP=10opneer.hlp
+
+[FILES]
+10opneer.rtf
+
+[MAP]
+IDH_Info=501
+IDH_Kaartachterkant=401
+IDH_Puntentelling=301
+IDH_Snelheid=402
+IDH_Spelen=101
+IDH_Statistiek=302
+IDH_Tips=102
+IDH_WT_Rondjes=1005
+IDH_WT_Score=1001         ; What's this voor scoreblok
+IDH_WT_SlagenOver=1007
+IDH_WT_Speltype=1006
+IDH_WT_Tineke=1002
+IDH_WT_Troef=1004
+IDH_WT_Voorspellen=1003
+
+[WINDOWS]
+main="",(653,102,360,600),60672,(r14876671),(r12632256),f3
+
+[CONFIG]
+BrowseButtons()

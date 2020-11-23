@@ -1,0 +1,42 @@
+;10 op en neer-savegame
+
+[Opties]
+Nietrondmaken = 0
+Verplichtintroeven = 0
+MaxAantalKaarten = 13
+...
+
+[Algemeen]
+Versie          = 1.01
+VoltooideRonden = 19         'Voltooide rondes
+WieBegint       = 3
+
+[Ronde1]
+Troef           = 18
+Kaarten1        = 27         'Ontvangen kaarten speler 1
+Kaarten2        = 6
+Kaarten3        = 51
+Kaarten4        = 2
+Voorspelling1   = 0
+Voorspelling2   = 1
+Voorspelling3   = 0
+Voorspelling4   = 0
+KaartGekozen1   = 1
+KaartGekozen2   = 1
+KaartGekozen3   = 1
+KaartGekozen4   = 1
+
+[Ronde2]
+Troef           = 20
+Kaarten1        = 7
+Kaarten2        = 8
+Kaarten3        = 22
+Kaarten4        = 5
+Voorspelling1   = 0
+Voorspelling2   = 0
+Voorspelling3   = 0
+Voorspelling4   = 2
+KaartGekozen1   = 1 2
+KaartGekozen2   = 1 2
+KaartGekozen3   = 2 1
+KaartGekozen4   = 1 2

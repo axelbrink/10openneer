@@ -1,0 +1,286 @@
+[Root]
+Most Recent Package=10 op en neer package 2
+
+
+[Package|10 op en neer Setup Package 1|10 op en neer]
+Icon1=10opneer.exe
+Title1=10 op en neer
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=10opneer.doc
+Title2=Spelregels
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|10 op en neer Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Programma's\10opneer\Package
+
+[Package|10 op en neer Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|10 op en neer Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|10 op en neer Setup Package 1|Files Found]
+
+[Package|10 op en neer Setup Package 1|Files Released]
+schot.wav=
+Toen1.bmp=
+hartenjagen stuk.wav=
+hartenjagen boing.wav=
+Nat.wav=
+Gaatnat.wav=
+toen4.bmp=
+toen3.bmp=
+toen2.bmp=
+
+[Package|10 op en neer Setup Package 1|Missing Dependency Information]
+
+[Package|10 op en neer Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|10 op en neer Setup Package 1|Files Added]
+c:\programma's\10opneer\10opneer.doc=
+c:\programma's\10opneer\applaus1.wav=
+c:\programma's\10opneer\applaus4.wav=
+c:\programma's\10opneer\tips.txt=
+c:\programma's\10opneer\ir_begin.wav=
+c:\programma's\10opneer\ir_end.wav=
+toen2.bmp=
+toen3.bmp=
+toen4.bmp=
+gaatnat.wav=
+nat.wav=
+C:\Programma's\10opneer\Hartenjagen boing.wav=
+C:\Programma's\10opneer\Hartenjagen stuk.wav=
+
+[Package|10 op en neer Setup Package 1|Files Removed]
+c:\programma's\10opneer\schot.wav=
+
+[Package|10 op en neer Setup Package 1|Files In Project]
+C:\Programma's\10opneer\10opneer.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MCI32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programma's\10opneer\10opneer.doc=Yes
+C:\Programma's\10opneer\APPLAUS1.WAV=Yes
+C:\Programma's\10opneer\APPLAUS4.WAV=Yes
+C:\Programma's\10opneer\Tips.txt=Yes
+C:\Programma's\10opneer\IR_BEGIN.WAV=Yes
+C:\Programma's\10opneer\IR_END.WAV=Yes
+C:\Programma's\10opneer\Hartenjagen boing.wav=Yes
+C:\Programma's\10opneer\Hartenjagen stuk.wav=Yes
+
+[Package|10 op en neer Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|10 op en neer Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|10 op en neer Setup Package 1|Install Locations]
+C:\Programma's\10opneer\10opneer.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programma's\10opneer\10opneer.doc=$(AppPath)
+C:\Programma's\10opneer\APPLAUS1.WAV=$(AppPath)
+C:\Programma's\10opneer\APPLAUS4.WAV=$(AppPath)
+C:\Programma's\10opneer\Schot.wav=$(AppPath)
+C:\Programma's\10opneer\Hartenjagen boing.wav=$(AppPath)
+C:\Programma's\10opneer\Hartenjagen stuk.wav=$(AppPath)
+C:\Programma's\10opneer\Tips.txt=$(AppPath)
+C:\Programma's\10opneer\IR_BEGIN.WAV=$(AppPath)
+C:\Programma's\10opneer\IR_END.WAV=$(AppPath)
+C:\Programma's\10opneer\Achterkant\Toen1.bmp=$(AppPath)\Achterkant
+C:\Programma's\10opneer\Achterkant\Toen2.bmp=$(AppPath)\Achterkant
+C:\Programma's\10opneer\Achterkant\Toen3.bmp=$(AppPath)\Achterkant
+C:\Programma's\10opneer\Achterkant\Toen4.bmp=$(AppPath)\Achterkant
+C:\Programma's\10opneer\Gaatnat.wav=$(AppPath)
+C:\Programma's\10opneer\Nat.wav=$(AppPath)
+
+[Package|10 op en neer Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Programma's\10opneer\10opneer.exe=No
+C:\Programma's\10opneer\10opneer.doc=No
+C:\Programma's\10opneer\APPLAUS1.WAV=No
+C:\Programma's\10opneer\APPLAUS4.WAV=No
+C:\Programma's\10opneer\Schot.wav=No
+C:\Programma's\10opneer\Hartenjagen boing.wav=No
+C:\Programma's\10opneer\Hartenjagen stuk.wav=No
+C:\Programma's\10opneer\Tips.txt=No
+C:\Programma's\10opneer\IR_BEGIN.WAV=No
+C:\Programma's\10opneer\IR_END.WAV=No
+C:\Programma's\10opneer\Achterkant\Toen1.bmp=No
+C:\Programma's\10opneer\Achterkant\Toen2.bmp=No
+C:\Programma's\10opneer\Achterkant\Toen3.bmp=No
+C:\Programma's\10opneer\Achterkant\Toen4.bmp=No
+C:\Programma's\10opneer\Gaatnat.wav=No
+C:\Programma's\10opneer\Nat.wav=No
+
+[Package|10 op en neer Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=10 op en neer
+
+[Package|10 op en neer Setup Package 1|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|10 op en neer Setup Package 1|$(Programs)]
+Icon1=10opneer.exe
+Title1=10 op en neer
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|10 op en neer Setup Package 1|Package]
+PackageFolder=C:\Programma's\10opneer\Package
+ProjectFolder=C:\Programma's\10opneer
+ServerSideCab=
+File1=C:\Programma's\10opneer\Package\setup.exe
+File2=C:\Programma's\10opneer\Package\Setup.Lst
+File3=C:\Programma's\10opneer\Package\10opneer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|10 op en neer package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Programma's\10opneer\Package
+
+[Package|10 op en neer package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|10 op en neer package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|10 op en neer package 2|Files Found]
+
+[Package|10 op en neer package 2|Files Released]
+tips.txt=
+
+[Package|10 op en neer package 2|Missing Dependency Information]
+
+[Package|10 op en neer package 2|Out-of-Date Dependency Information]
+
+[Package|10 op en neer package 2|Files Added]
+c:\programma's\10opneer\10opneer.doc=
+tips.txt=
+c:\programma's\10opneer\geluiden\applaus1.wav=
+c:\programma's\10opneer\geluiden\applaus2.wav=
+c:\programma's\10opneer\geluiden\hartenjagen boing.wav=
+c:\programma's\10opneer\geluiden\hartenjagen stuk.wav=
+
+[Package|10 op en neer package 2|Files Removed]
+
+[Package|10 op en neer package 2|Files In Project]
+C:\Programma's\10opneer\10opneer.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programma's\10opneer\10opneer.doc=Yes
+C:\Programma's\10opneer\Geluiden\APPLAUS1.WAV=Yes
+C:\Programma's\10opneer\Geluiden\Applaus2.wav=Yes
+C:\Programma's\10opneer\Geluiden\Hartenjagen boing.wav=Yes
+C:\Programma's\10opneer\Geluiden\Hartenjagen stuk.wav=Yes
+
+[Package|10 op en neer package 2|Configure Registry Files]
+Applicable=No
+
+[Package|10 op en neer package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|10 op en neer package 2|Install Locations]
+C:\Programma's\10opneer\10opneer.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\MCI32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(AppPath)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programma's\10opneer\10opneer.doc=$(AppPath)
+C:\Programma's\10opneer\Tips.txt=$(AppPath)
+C:\Programma's\10opneer\Geluiden\APPLAUS1.WAV=$(AppPath)\Geluiden
+C:\Programma's\10opneer\Geluiden\Applaus2.wav=$(AppPath)\Geluiden
+C:\Programma's\10opneer\Geluiden\Hartenjagen boing.wav=$(AppPath)\Geluiden
+C:\Programma's\10opneer\Geluiden\Hartenjagen stuk.wav=$(AppPath)\Geluiden
+
+[Package|10 op en neer package 2|Configure Shared Files]
+Applicable=Yes
+C:\Programma's\10opneer\10opneer.exe=No
+C:\Programma's\10opneer\10opneer.doc=No
+C:\Programma's\10opneer\Tips.txt=No
+C:\Programma's\10opneer\Geluiden\APPLAUS1.WAV=No
+C:\Programma's\10opneer\Geluiden\Applaus2.wav=No
+C:\Programma's\10opneer\Geluiden\Hartenjagen boing.wav=No
+C:\Programma's\10opneer\Geluiden\Hartenjagen stuk.wav=No
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=No
+C:\WINDOWS\SYSTEM\MCI32.OCX=No
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+
+[Package|10 op en neer package 2|Distribution]
+Type=multi
+Size=1.44 MB
+Title=10 op en neer
+
+[Package|10 op en neer package 2|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|10 op en neer package 2|$(Programs)]
+Icon1=10opneer.exe
+Title1=10 op en neer
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|10 op en neer package 2|Package]
+PackageFolder=C:\Programma's\10opneer\Package
+ProjectFolder=C:\Programma's\10opneer
+ServerSideCab=
+File1=C:\Programma's\10opneer\Package\setup.exe
+File2=C:\Programma's\10opneer\Package\Setup.Lst
+File3=C:\Programma's\10opneer\Package\10opne1.CAB
+File4=C:\Programma's\10opneer\Package\10opne2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
