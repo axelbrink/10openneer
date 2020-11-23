@@ -1,4 +1,4 @@
-# 10openneer
+# 10 op en neer
 10 op en neer, een heel leuk Nederlands kaartspel. Ook bekend als Boerenbridge en Oh hell.
 Een gratis en zeer leuk kaartspel voor Windows. Ben je uitgekeken op Hartenjagen, Patience en FreeCell? Probeer dan dit eens.
 
